@@ -30,4 +30,4 @@ Explore explore=new Explore(transitablePointCollection,pointA,pointE);
 System.out.println(explore.getMinDistance());  
 
 **Other version**  
-Java:https://github.com/FadeOrigin/RouteSearch-.NetCore
+.net Core:https://github.com/FadeOrigin/RouteSearch-.NetCore
